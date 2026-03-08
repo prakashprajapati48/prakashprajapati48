@@ -32,7 +32,55 @@
 - Tailwind CSS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,nodejs,express,php,flask,mysql,bootstrap,tailwind" />
+
+<a href="https://react.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://vitejs.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vite" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://expressjs.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" />
+</a>
+
+<a href="https://www.php.net" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php" />
+</a>
+
+<a href="https://flask.palletsprojects.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" />
+</a>
+
+<a href="https://www.mysql.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</a>
+
+<a href="https://tailwindcss.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+
 </p>
 
 ---
