@@ -47,7 +47,7 @@
 <h3 align="center">🌐 Visit My Portfolio</h3>
 
 <p align="center">
-  <a href="https://prakashprajapati48.github.io/portfolio/" target="_blank">
+  <a href="https://prakashprajapati48.github.io/portfolio/" target="_blank" >
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio Badge" />
   </a>
 </p>
@@ -57,13 +57,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/prakash-prajapati-75ab012b3">
+  <a href="www.linkedin.com/in/prakash-prajapati-75ab012b3" target="_blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/prajapatiprakash">
+  <a href="https://www.hackerrank.com/prajapatiprakash" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40"/>
   </a>
-  <a href="https://www.instagram.com/prakash_.5810/">
+  <a href="https://www.instagram.com/prakash_.5810/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
