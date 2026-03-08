@@ -47,7 +47,7 @@
 <h3 align="center">🌐 Visit My Portfolio</h3>
 
 <p align="center">
-  <a href="https://https://prakashprajapati48.github.io/portfolio/" target="_blank">
+  <a href="https://prakashprajapati48.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio Badge" />
   </a>
 </p>
